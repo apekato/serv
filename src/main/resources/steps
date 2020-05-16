@@ -1,0 +1,19 @@
+- Server    
+    - db 
+        -appversion
+    - ProjService: 
+        - URL
+        - ADDRESS
+        - RBPATH
+    - persistence
+    - glassfish-web: 
+        - context-root
+    - BlockCypherConstants
+        - netbeans
+    - OpReturnMain
+        - change NetworkParameters
+    - change file name in homolog
+
+- Android
+    - ProjService
+        - URLTYPE
